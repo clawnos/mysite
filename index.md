@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![avatar](avatar.jpg)
+![hackerLogo](hackerLogo.png)
 
 # CLAWNOS
 
